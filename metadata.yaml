@@ -1,11 +1,16 @@
 _repo: A-month-in-Switzerland_69990
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69990-h/images/cover.jpg
 creator:
   author:
     agent_name: Zincke, Foster Barham
     gutenberg_agent_id: '55531'
     url: http://www.gutenberg.org/2009/agents/55531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69990#A-month-in-Switzerland
 gutenberg_issued: '2023-02-08'
 identifiers:
   gutenberg: '69990'
